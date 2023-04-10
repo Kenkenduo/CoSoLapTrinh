@@ -1,0 +1,5 @@
+p = float(input("Tien dau tu ban dau: "))
+n = float(input("So Thang Gui: "))
+r = float(input("Lai moi thang: "))
+a = p*(1+ r*n)
+print(f"Tien lanh cuoi ky: {a}")
