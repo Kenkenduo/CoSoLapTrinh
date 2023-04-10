@@ -6,3 +6,4 @@ e = int(input("Tam ung: "))
 luong = c*b*d
 thuclinh = luong-e
 print (f"Nhan vien {a}, Co tien luong={luong}, Tam ung={e} va Thuc linh={thuclinh}")
+print('kemm')
